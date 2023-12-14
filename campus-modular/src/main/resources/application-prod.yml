@@ -1,3 +1,13 @@
+# 项目相关配置
+campus:
+  # 名称
+  name: campus-imaotai
+  # 版本
+  version: ${revision}
+
+server:
+  port: 8160
+
 spring:
   #数据源配置
   datasource:
